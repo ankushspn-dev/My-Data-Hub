@@ -31,5 +31,5 @@ const EXTRA = [
 
 // 7) Repos to hide from the list (optional).
 const HIDE = [
-  // "some-repo-name",
+  "My-Data-Hub",
 ];
