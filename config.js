@@ -5,7 +5,7 @@
 
 // 1) Password.  Leave "" the first time. Open the app, type the password
 //    you want, tap "Make code", and paste the code between the quotes.
-const PASSWORD_HASH = "";
+const PASSWORD_HASH = "93df6b3927e022ad196aa9870c4c09558b240ae4655844c469d989fb6b00f47a";
 
 // 2) Your GitHub username (used to find your GitHub Pages sites).
 const USERNAME = "ankushspn-dev";
