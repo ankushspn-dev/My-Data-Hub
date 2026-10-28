@@ -11,7 +11,7 @@ const PASSWORD_HASH = "93df6b3927e022ad196aa9870c4c09558b240ae4655844c469d989fb6
 const USERNAME = "ankushspn-dev";
 
 // 3) Name shown in the title bar.
-const TITLE = "My Web Apps";
+const TITLE = "Immunization Data Intelligence Portal (IDIP)";
 
 // 4) Auto sign-out after this many minutes without activity.
 const IDLE_MINUTES = 15;
@@ -23,9 +23,9 @@ const DEFAULT_PAGE = "Immunization Dashboard";
 // 5) Names shown in the left panel instead of the real repo names.
 //    "real-repo-name": { name: "Shown name", desc: "Shown description" }
 const ALIASES = {
-  // "Imm_dashboard": { name: "Immunization Dashboard", desc: "Monthly coverage view" },
-  // "ppt": { name: "State Slides", desc: "Excel to PowerPoint" },
-  // "HMIS-UWIN-coverage": { name: "Coverage Comparison", desc: "HMIS and UWIN" },
+  "Imm_dashboard": { name: "Immunization Dashboard", desc: "Monthly coverage view" },
+  "ppt": { name: "State Slides", desc: "Excel to PowerPoint" },
+  "HMIS-UWIN-coverage": { name: "Coverage Comparison", desc: "HMIS and UWIN" },
 };
 
 // 6) Extra pages hosted elsewhere (optional).
