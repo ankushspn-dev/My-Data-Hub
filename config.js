@@ -16,6 +16,10 @@ const TITLE = "Pages Hub";
 // 4) Auto sign-out after this many minutes without activity.
 const IDLE_MINUTES = 10;
 
+// 4b) Page opened automatically after sign-in (repo name or shown name).
+//     Optional: if this line is missing, "Imm_Dashboard" is used.
+consst DEFAULT_PAGE = "Immunization Dashboard"
+
 // 5) Names shown in the left panel instead of the real repo names.
 //    "real-repo-name": { name: "Shown name", desc: "Shown description" }
 const ALIASES = {
