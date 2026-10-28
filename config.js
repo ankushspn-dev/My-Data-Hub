@@ -8,17 +8,17 @@
 const PASSWORD_HASH = "";
 
 // 2) Your GitHub username (used to find your GitHub Pages sites).
-const USERNAME = "YOUR-GITHUB-USERNAME";
+const USERNAME = "ankushspn-dev";
 
 // 3) Name shown in the title bar.
-const TITLE = "Pages Hub";
+const TITLE = "My Web Apps";
 
 // 4) Auto sign-out after this many minutes without activity.
 const IDLE_MINUTES = 15;
 
 // 4b) Page opened automatically after sign-in (repo name or shown name).
 //     Optional: if this line is missing, "Imm_dashboard" is used.
-const DEFAULT_PAGE = "Imm_dashboard";
+const DEFAULT_PAGE = "Immunization Dashboard";
 
 // 5) Names shown in the left panel instead of the real repo names.
 //    "real-repo-name": { name: "Shown name", desc: "Shown description" }
